@@ -92,4 +92,4 @@ flutter test
 ```
 
 ---
-**Developed for Talent Growth Assignment**
+**Developed for E-motion Assignment**
